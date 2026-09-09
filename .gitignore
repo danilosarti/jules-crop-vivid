@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+code/csv/
+code/nn_v2.keras
+code/eval_v2.npz
+code/meta_v2.json
+code/figures_300dpi/
+.DS_Store
